@@ -15,7 +15,7 @@
 }
 
 #navlink, #navactive {
-    color: #fff;
+    color: #009970;
     font-weight: 500;
     position: relative;
 }
@@ -46,7 +46,7 @@
         transform: translateX(-50%);
         width: 0;
         height: 2px;
-        background-color: #000;
+        background-color: #fff;
         visibility: hidden;
         transition: 0.3s ease-in-out;
     }
