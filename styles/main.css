@@ -54,6 +54,7 @@
     #navlink:hover:before, #navactive::before{
         width: 100%;
         visibility: visible;
+        color: black;
     }
 }
 
