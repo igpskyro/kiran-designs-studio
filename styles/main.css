@@ -46,7 +46,7 @@
         transform: translateX(-50%);
         width: 0;
         height: 2px;
-        background-color: #fff;
+        background-color: #000;
         visibility: hidden;
         transition: 0.3s ease-in-out;
     }
